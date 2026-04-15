@@ -1,5 +1,5 @@
-// Shinylive 0.10.7
-// Copyright 2025 Posit, PBC
+// Shinylive 0.10.8
+// Copyright 2026 Posit, PBC
 
 // node_modules/js-yaml/dist/js-yaml.mjs
 function isNothing(subject) {
